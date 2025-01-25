@@ -24,7 +24,7 @@ css_code = f"""
         background-size: cover;
     }}
     .stApp {{
-        background: rgba(255, 255, 255, 0);  /* Add a semi-transparent background for better text readability */
+        background: rgba(255, 255, 255, 0.8);  /* Add a semi-transparent background for better text readability */
         border-radius: 100px;
         padding: 20px;
     }}
