@@ -116,7 +116,7 @@ projects = [
 - 	This is a product analysis project focused on Kevin Cookies Company, aimed at assisting the company in enhancing its production strategies. By analyzing the number of units sold over a specific period, the company can refine its product offerings and better cater to market preferences.
 -	In this project, I utilized the Pandas library for data importing and data cleaning. Additionally, I employed the Streamit package in Python for data visualization and dashboard deployment.
 -	Within the dashboard, I showcased the number of units sold over time, categorized by different product types
--  [Live Demo](https://python-project-using-app-hpsgzgrufkxkzuvszslrry.streamlit.app/)
+-  [Live Demo](https://python-project-using-app-ab.streamlit.app/)
         """
     },
     {
